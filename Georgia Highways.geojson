@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "COUNTY_FIP": "117", "ROAD_NAME": null, "Label": "400" }, "geometry": { "type": "LineString", "coordinates": [ [ 2305051.4236286348, 1522069.0919087185 ], [ 2305002.8404983021, 1521978.2625252483 ] ] } },
